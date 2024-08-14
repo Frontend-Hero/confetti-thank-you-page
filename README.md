@@ -1,1 +1,1 @@
-<h1>Create a Confetti Explosion Thank You Page For Your Contact Form</h1>
+<h1>Create a Confetti Explosion Thank You Page</h1>
